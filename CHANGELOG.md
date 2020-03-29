@@ -22,7 +22,8 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 ### Changed
 - Move the development tools to Phive
   ([#850](https://github.com/MyIntervals/emogrifier/pull/850),
-  [#851](https://github.com/MyIntervals/emogrifier/pull/851))
+  [#851](https://github.com/MyIntervals/emogrifier/pull/851),
+  [#852](https://github.com/MyIntervals/emogrifier/pull/852))
 - Switch the parallel linting to a maintained fork
   ([#842](https://github.com/MyIntervals/emogrifier/pull/842))
 - Move continuous integration from Travis CI to GitHub actions
